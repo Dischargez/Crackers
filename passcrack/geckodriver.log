@@ -1,0 +1,386 @@
+1622752315080	geckodriver	INFO	Listening on 127.0.0.1:55826
+1622752318151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\067226s\\AppData\\Local\\Temp\\rust_mozprofiledSQU7s"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622752319536	Marionette	INFO	Listening on port 55834
+1622752319672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622752619158	Marionette	INFO	Stopped listening on port 55834
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileHIf4IY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622752338196	Marionette	INFO	Listening on port 55962
+1622752338322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622752619772	Marionette	INFO	Stopped listening on port 55962
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofilezp66sL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622752432953	Marionette	INFO	Listening on port 56102
+1622752433024	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1622752620404	Marionette	INFO	Stopped listening on port 56102
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileAbHhy3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622752467450	Marionette	INFO	Listening on port 56234
+1622752467529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 15760, MediaDecoderStateMachine #1] WARNING: Decoder=11911a27800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 376
+[Child 15760, MediaDecoderStateMachine #1] WARNING: Decoder=11911a27800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 511: NS_ERROR_FAILURE: 
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://auth.riotgames.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 119: TypeError: gRecipeManager is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1622754372017	Marionette	INFO	Stopped listening on port 56234
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofilem6DLUL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622752756397	Marionette	INFO	Listening on port 56608
+1622752756473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 511: NS_ERROR_FAILURE: 
+1622757436943	Marionette	INFO	Stopped listening on port 56608
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileqfPmlR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622752766364	Marionette	INFO	Listening on port 56709
+1622752766822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 511: NS_ERROR_FAILURE: 
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: "Error while calling acto1622757436588	Marionette	INFO	Stopped listening on port 56798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+1622753053339	Marionette	INFO	Stopped listening on port 567091622757436792	Marionette	INFO	Stopped listening on port 56899
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+22753846775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\067226s\\AppData\\Local\\Temp\\rust_mozprofileqEtLrB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622753848241	Marionette	INFO	Listening on port 57486
+1622753848312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/media/PeerConnection.jsm, line 511: NS_ERROR_FAILURE: 
+1622753998102	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1622754368099	Marionette	INFO	Stopped listening on port 57486
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1622755142018	geckodriver	INFO	Listening on 127.0.0.1:57975
+1622755145082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\067226s\\AppData\\Local\\Temp\\rust_mozprofileXn9TbU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622755146613	Marionette	INFO	Listening on port 57983
+1622755146841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://discord.com/assets/35766d4128405df23117.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/35766d4128405df23117.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/35766d4128405df23117.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/35766d4128405df23117.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1622755167633	Marionette	INFO	Stopped listening on port 57983
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1622755196036	geckodriver	INFO	Listening on 127.0.0.1:58130
+1622755199108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\067226s\\AppData\\Local\\Temp\\rust_mozprofilezCnqDe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622755200479	Marionette	INFO	Listening on port 58140
+1622755200629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+1622757436390	Marionette	INFO	Stopped listening on port 58140
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileks5CIQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622755220048	Marionette	INFO	Listening on port 58319
+1622755220062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+JavaScript error: https://e.widgetbot.io/static/js/main.d33dc442.js, line 1: Error: GraphQL error: Client is not active.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622757436231	Marionette	INFO	Stopped listening on port 58319
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ertificate errors will be ignored for this session
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+1622757435911	Marionette	INFO	Stopped listening on port 58512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofilevh84J4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622755299979	Marionette	INFO	Listening on port 58669
+1622755300076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+1622757435784	Marionette	INFO	Stopped listening on port 58669
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\067226s\\AppData\\Local\\Temp\\rust_mozprofileQRJdBP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622755420123	Marionette	INFO	Listening on port 58899
+1622755420130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+1622757435308	Marionette	INFO	Stopped listening on port 58899
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileS89XIe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622755461615	Marionette	INFO	Listening on port 59084
+1622755461686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1622757434891	Marionette	INFO	Stopped listening on port 59084
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofilepyib4B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1622755491507	Marionette	INFO	Listening on port 59295
+1622755491520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622757433971	Marionette	INFO	Stopped listening on port 59295
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ttps://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 627: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/@widgetbot/crate@3, line 7: Error: Something went wrong! failed to connect to @widgetbot/embed-api!
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 96: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 236: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 268: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 322: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 375: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 450: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.affairsandorder.com/static/script.js, line 532: TypeError: document.getElementById(...) is null
+JavaScript error: https://e.widgetbot.io/static/js/main.d33dc442.js, line 1: Error: GraphQL error: Client is not active.
+1622755672551	Marionette	INFO	Stopped listening on port 59568
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
